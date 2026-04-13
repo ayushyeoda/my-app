@@ -1,0 +1,13 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "deploy:erc721": "ts-node scripts/deploy-erc721.ts",
+    "nft:info": "ts-node scripts/nft-info.ts"
+  },
+  "packageManager": "pnpm@9.0.0",
+  "license": "MIT",
+  "keywords": []
+}
